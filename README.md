@@ -1,40 +1,43 @@
 
-# **KDiscordBot**
+# **Test h1**
 
-Bot discord simple, encore en développement\
-Préfix par défaut: *`kd!`* non personnable
-
-Commencez par utiliser la commande *`kd!help`*\
-Elle vous donnera des informations détaillées sur toutes les commandes
-
-5 commandes utilisateurs :
-
-* *`animal`* : affiche une image random d'animal
-* *`help`*   : affiche toutes les commandes
-* *`info`*   : affiche les infos du bot ou du serveur
-* *`ping`*   : renvoi 'pong'
-* *`repeat`* : répète le message reçu
+Phrase de teste
 
 ---
 
-## **Current Patch Notes** - ***v1.0.0***
+## **Test h2**
 
-    Released on 27/10/2019
-    
-    > Dépôt du projet sur GitHub
-    > Mise en ligne du bot
+Phrase de teste
 
 ---
 
-## **Inactive Commands**
+### **Test h3**
 
-    ban  | clear   | config | eval | kick | prefix | quit
-    mute | play    | poll   | role | stop | exp    | game
-    math | monnaie | report
+Phrase de teste
 
 ---
-K | MIT Copyright ©2019 KDiscordBot
 
-> [Serveur Officiel](https://discord.gg/GwhVqCX)
-| [Inviter KDiscordBot](https://discordapp.com/api/oauth2/authorize?client_id=631678357632712705permissions=0&scope=bot)
- | @Supervisor#7357
+* Test liste puce 1
+* Test liste puce 2
+  * Test liste puce imbriqué 1
+  * Test liste puce imbriqué 2
+
+---
+
+1. Test liste puce numéroté
+2. Test liste puce numéroté
+
+---
+> Test citation
+>> Test de réponse de citation
+---
+Test de code source en JavaScript :
+
+    function func() {
+      console.log("Test");
+    }
+---
+Test d'écriture de `code` dans une phrase
+
+---
+Test lien vers ce [README](https://github.com/Kev-17/test/blob/master/README.md)
