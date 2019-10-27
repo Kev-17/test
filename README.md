@@ -22,14 +22,7 @@ Elle vous donnera des informations détaillées sur toutes les commandes
     > Dépôt du projet sur GitHub
     > Mise en ligne du bot
 
-#### Released on 27/10/2019
-
----
-
-## **Table Of Upcomming Changes**
-
-    > ajouter les commandes inactives
-    > préfix personnalisable
+    Released on 27/10/2019
 
 ---
 
